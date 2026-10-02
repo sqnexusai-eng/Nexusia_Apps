@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 774 >>
+stream
+BT /F1 14 Tf 50 780 Td (Carlos Mendoza - Senior Operations Analyst) Tj ET
+BT /F1 10 Tf 50 750 Td 14 TL
+(Contacto: carlos.mendoza@email.com | Tel: +34 612 345 678 | Madrid) ' 
+(PERFIL:) ' 
+(Experiencia de mas de 6 anos optimizando procesos y liderando proyectos de analitica.) ' 
+(Dominio avanzado de Python \(Pandas, automatizacion de scripts\) y SQL relacional.) ' 
+(Certificacion Lean Six Sigma Green Belt. Liderazgo de equipos tecnicos y de negocio.) ' 
+(EXPERIENCIA:) ' 
+(Lead Operations Analyst en LogiTrans Global \(2021 - Presente\). Reduccion de tiempos de reporte 65%.) ' 
+(Optimizacion de consultas complejas en PostgreSQL. Ahorro anual cuantificado de 150K USD.) ' 
+(Analista de Procesos en Nexus Retail \(2018 - 2021\). Scripts de conciliacion en Python.) ' 
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001066 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1136
+%%EOF
